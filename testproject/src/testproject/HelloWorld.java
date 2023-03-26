@@ -6,8 +6,9 @@ public class HelloWorld {
 		System.out.println("HelloWorld... !!!");
 		//commit
 		System.out.println("commit message");
-		System.out.println("testbranch1 commit-1");
-		System.out.println("testbranch1 commit-2");
+		System.out.println("main branch commit");
+		System.out.println("main branch commit-1");
+		System.out.println("main branch commit-2")
 
 	}
 
