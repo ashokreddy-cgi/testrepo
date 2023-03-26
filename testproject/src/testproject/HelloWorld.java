@@ -6,6 +6,8 @@ public class HelloWorld {
 		System.out.println("HelloWorld... !!!");
 		//commit
 		System.out.println("master commit-1");
+		System.out.println("master commit-2");
+		System.out.println("master commit-3");
 
 
 	}
